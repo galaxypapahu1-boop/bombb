@@ -1,0 +1,16 @@
+{
+  "name": "brutal-bomber-api",
+  "version": "1.0.0",
+  "description": "NO KEYS BOMBING API - 30 SERVICES",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build required'"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "axios": "^1.6.0",
+    "node-cache": "^5.1.2"
+  }
+}
